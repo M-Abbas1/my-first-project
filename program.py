@@ -10,3 +10,7 @@ l = ['ali', 'kamran']
 
 for name in l:
     print(name)
+
+
+
+print('New Line')
